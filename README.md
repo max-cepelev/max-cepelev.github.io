@@ -5,5 +5,6 @@
 - SASS
 - Pixel Perfect верстка
 - UX
+- Адаптивная верстка
 
 Реализация: http://uber.m-dev.pro/
